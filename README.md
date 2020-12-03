@@ -1,6 +1,6 @@
-# How to create an Apache Thrift Service – Tutorial
+# How to create an Apache Thrift Service and Client
 
-- Link (https://cloudxlab.com/blog/creating-thrift-service/)
+- [Link](https://cloudxlab.com/blog/creating-thrift-service/)
 
 ### Generate the server and client side code
 
@@ -10,7 +10,7 @@ At this point, you will observe folders `gen_*` in `app_*` directories.
 
 ### Experiment
 
-`cd app_1/` or `cd app_1/`
+`cd app_1/` or `cd app_2/`
 
 Start service
 
